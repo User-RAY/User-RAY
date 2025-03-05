@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m learning Next.js, Mongoose, and TypeScript to improve both my front-end and back-end development skills.
+🌱 I’m currently learning Next.js, Mongoose, and TypeScript to improve both my front-end and back-end development skills.
 
 
 # 💻 Tech Stack:
