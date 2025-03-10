@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Raiyan Mohammad Sarker Here
 
 
 # 💫 About Me:
+💻 I’m passionate about building web applications and solving algorithmic challenges. 
 🌱 I’m currently learning Next.js, Mongoose, and TypeScript to improve both my front-end and back-end development skills.
 
 
