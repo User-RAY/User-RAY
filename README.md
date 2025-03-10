@@ -1,5 +1,5 @@
 [<img align="center" width="auto" src="/1.png">](#)
-##                                           Hi there👋  Raiyan Here
+## <div align="center"> Hi there👋  Raiyan Here </div>
 
 
 # 💫 About Me:
