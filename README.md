@@ -1,7 +1,6 @@
 [<img align="center" width="auto" src="/1.png">](#)
 ## <div align="center"> Hi there👋  Raiyan Here </div>
 
-
 # 💫 About Me:
 💻 I’m passionate about building web applications and solving algorithmic challenges. 
 🌱 I’m currently learning Next.js, Mongoose, and TypeScript to improve both my front-end and back-end development skills.
